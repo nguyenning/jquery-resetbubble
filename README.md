@@ -5,6 +5,8 @@ Bubbles the `reset` event delegation for IE 8 and lower.  This plugin does nothi
 
 Useful for fixing Backbone.js delegate events
 
+# [Demo](http://nguyenning.github.io/jquery-resetbubble/)
+
 # Requirements
 
 * jQuery 1.x **only**
