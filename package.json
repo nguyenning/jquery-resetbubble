@@ -1,6 +1,6 @@
 {
   "name": "jquery-resetbubble",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bubbles the 'reset' event delegation for IE 8 and lower. This plugin does nothing in modern browsers!",
   "main": "dist/jquery-resetbubble.js",
   "scripts": {

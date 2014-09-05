@@ -7,7 +7,7 @@ gulp.task('wrap', function () {
     namespace: 'jQuery',
     deps: [
       {
-        name: 'jquery-resetbubble',
+        name: 'jquery',
         globalName: 'jQuery',
         paramName: 'jQuery'
       }
