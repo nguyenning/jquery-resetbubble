@@ -13,6 +13,16 @@ Useful for fixing Backbone.js delegate events
 
 ## Supports
 
-* CommonJS
+* CommonJS / Browserify
+
+  ```npm install jquery-resetbubble```
+
 * AMD
+
+  ```javascript
+  require(['jquery-resetbubble'], function () {
+
+  });
+  ```
+
 * Plain old `script` tag
